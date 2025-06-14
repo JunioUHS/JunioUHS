@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Junio
 
-Sou desenvolvedor com experiência sólida em back-end e front-end, trabalhando com tecnologias modernas como .NET, PHP, Laravel, Symfony, JavaScript, TypeScript e Angular.
+Sou desenvolvedor FullStack com experiência sólida principalmente em back-end, trabalhando com tecnologias modernas como .NET, PHP, Laravel, Symfony, JavaScript, TypeScript e Angular.
 
 ## 🚀 Algumas tecnologias que utilizo
 
