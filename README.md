@@ -12,11 +12,6 @@ Sou desenvolvedor com experiência sólida em back-end e front-end, trabalhando 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do Junio](https://github-readme-stats.vercel.app/api?username=JunioUHS&show_icons=true&theme=tokyonight)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JunioUHS&layout=compact&theme=tokyonight)
-
 ## 📫 Onde me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/junio-nunes-8609a1183/)
